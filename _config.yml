@@ -1,6 +1,6 @@
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Chubai&dong world"
+title                    : "Chubai/dong world"
 title_separator          : "-"
 name                     : &name "HouJiadong"
 description              : &description "the main page of Chubai"
