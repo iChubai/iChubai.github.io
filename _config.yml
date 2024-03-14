@@ -6,7 +6,7 @@ name                     : &name "HouJiadong"
 description              : &description "the main page of Chubai"
 url                      : https://iChubai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "iChubai.github.io"
+repository               : "iChubai/iChubai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -20,7 +20,7 @@ author:
   location         : "Tianjin,China"
   employer         : "Nan kai University"
   uri              : # URL
-  email            : "2311671@nankai.edu.cn" 
+  email            : "2311671.mail.nankai.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
