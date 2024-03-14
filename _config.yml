@@ -20,7 +20,7 @@ author:
   location         : "Tianjin,China"
   employer         : "Nan kai University"
   uri              : # URL
-  email            : "2311671.mail.nankai.edu.cn" 
+  email            : "2506676943@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -38,9 +38,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  zhihu            :"https://www.zhihu.com/people/chu-bai-13-4"
-  QQ               :"2506676943"
-  wechat           :"houjiadong2506676943"
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
