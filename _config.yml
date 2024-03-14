@@ -1,9 +1,9 @@
 # Basic Site Settings
-locale                   : "Tianjin China"
-title                    : "Chubai / dong world"
+locale                   : "zh-CN"
+title                    : "Chubai&dong world"
 title_separator          : "-"
 name                     : &name "HouJiadong"
-description              : &description "A CS student of NKU"
+description              : &description "the main page of Chubai"
 url                      : https://iChubai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "iChubai.github.io"
@@ -38,29 +38,6 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
   zhihu            :"https://www.zhihu.com/people/chu-bai-13-4"
   QQ               :"2506676943"
   wechat           :"houjiadong2506676943"
