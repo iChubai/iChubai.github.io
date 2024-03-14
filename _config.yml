@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "China"
+title                    : "Chubai / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "HouJiadong"
+description              : &description "A CS student of NKU"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -37,7 +37,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-
+  zhihu            :"https://www.zhihu.com/people/chu-bai-13-4"
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            :"https://www.zhihu.com/people/chu-bai-13-4"
 
 
 # Site Settings
