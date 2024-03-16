@@ -41,6 +41,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
 Honor
 ======
 * 2022年全国中学生数学奥林匹克竞赛（预赛） 省一等奖（第31名）
