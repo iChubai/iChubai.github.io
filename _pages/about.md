@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # 关于我
-这里是侯嘉栋的个人主页。我是一个南开大学信息与计算科学的本科生，目前正在大一，喜欢数学和算法内容，多多指教~
+这里是侯嘉栋的个人主页。我是一个南开大学信息科学与技术的本科生，目前正在大一，喜欢数学和算法内容，多多指教~
 # 联系我
 下面是我的联系方式：
  - 📫南开大学邮箱(Email) ： `2311671@mail.nankai.edu.cn`
@@ -27,4 +27,5 @@ redirect_from:
  - 算法笔记No.10 :[算法笔记（数学篇）](https://zhuanlan.zhihu.com/p/685767000)
  - 数学随笔No.1：[MA collection(1)](https://zhuanlan.zhihu.com/p/677811582)
  - 数学随笔No.2: [MA collection(2)](https://zhuanlan.zhihu.com/p/677914525)
- - 数学随笔No.3: [冬练三九！（品分析一道期末考题）](https://zhuanlan.zhihu.com/p/679674494)
+ - 数学随笔No.3: [MA collection(3)](https://zhuanlan.zhihu.com/p/680281501)
+ - 数学随笔No.4: [冬练三九！（品分析一道期末考题）](https://zhuanlan.zhihu.com/p/679674494)
