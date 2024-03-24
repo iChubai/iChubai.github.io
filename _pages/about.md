@@ -25,6 +25,7 @@ redirect_from:
  - 算法笔记No.8 : [算法笔记（Prim算法、Kruskal算法、二分图、匈牙利算法）](https://zhuanlan.zhihu.com/p/685637694)
  - 算法笔记No.9 : [算法笔记（dijkstra算法(朴素版、堆优化版)、Bellman-Ford算法、spfa算法）](https://zhuanlan.zhihu.com/p/684656346)
  - 算法笔记No.10 :[算法笔记（数学篇）](https://zhuanlan.zhihu.com/p/685767000)
+ - 算法笔记No.11 :[算法笔记（DP篇)](https://zhuanlan.zhihu.com/p/688719531)
  - 数学随笔No.1：[MA collection(1)](https://zhuanlan.zhihu.com/p/677811582)
  - 数学随笔No.2: [MA collection(2)](https://zhuanlan.zhihu.com/p/677914525)
  - 数学随笔No.3: [MA collection(3)](https://zhuanlan.zhihu.com/p/680281501)
