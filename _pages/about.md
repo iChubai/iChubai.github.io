@@ -15,7 +15,7 @@ redirect_from:
  - 知乎个人主页 : [Chubai's zhihu](https://www.zhihu.com/people/chu-bai-13-4)
 
 # 学习内容和笔记
- -品分析部分题解（手写字丑过几天可能下架、大一刚学的时候写的慎入.提取码：56j1）[品分析](https://pan.baidu.com/s/1MZtp4td2M8rcQz--tpMfSA)
+ - 品分析部分题解（手写字丑过几天可能下架、大一刚学的时候写的慎入.提取码：56j1）[品分析](https://pan.baidu.com/s/1MZtp4td2M8rcQz--tpMfSA)
  - 算法笔记No.1 : [算法笔记（排序篇）](https://zhuanlan.zhihu.com/p/671231191)
  - 算法笔记No.2 : [算法笔记（高精度）](https://zhuanlan.zhihu.com/p/679063770)
  - 算法笔记No.3 : [算法笔记（前缀和和差分）](https://zhuanlan.zhihu.com/p/679260528)
