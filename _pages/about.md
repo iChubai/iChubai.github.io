@@ -34,7 +34,9 @@ redirect_from:
 
 # 一些非常值得mark的资源和网站
  - oi wiki :[oi wiki](https://oi-wiki.org/)
+ - cs自学指南 :[cs自学指南](https://csdiy.wiki/)
+ - nkucs.icu :[nkucs.icu](https://nkucs.icu/)
  - art of problem solving :[aops](https://artofproblemsolving.com/)
  - Mathematics Stack exchange :[MSE](https://math.stackexchange.com/)
  - NKU 21级省身班 朱凯学长主页[KaiZhu](https://mmkaymath.github.io/KaiZhu.github.io/)
- - ......
+
