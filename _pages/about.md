@@ -31,7 +31,7 @@ redirect_from:
  - 数学随笔No.2: [MA collection(2)](https://zhuanlan.zhihu.com/p/677914525)
  - 数学随笔No.3: [MA collection(3)](https://zhuanlan.zhihu.com/p/680281501)
  - 数学随笔No.4: [冬练三九！（品分析一道期末考题）](https://zhuanlan.zhihu.com/p/679674494)
-
+ - 数学随笔No.5: [关于兰道不等式的二三事](https://zhuanlan.zhihu.com/p/695744164)
 # 一些非常值得mark的资源和网站
  - oi wiki :[oi wiki](https://oi-wiki.org/)
  - cs自学指南 :[cs自学指南](https://csdiy.wiki/)
