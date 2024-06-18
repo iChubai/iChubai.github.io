@@ -16,6 +16,7 @@ redirect_from:
 
 # 学习内容和笔记
  - 品分析部分题解（手写字丑过几天可能下架、大一刚学的时候写的慎入.提取码：56j1）[品分析](https://pan.baidu.com/s/1MZtp4td2M8rcQz--tpMfSA)
+ - 菜栋的胡乱笔记（持续更新完善中。。。.提取码:i91L）[菜栋笔记](https://pan.baidu.com/s/1oeRO-jaDlpD3PeObZV3xvw )
  - 算法笔记No.1 : [算法笔记（排序篇）](https://zhuanlan.zhihu.com/p/671231191)
  - 算法笔记No.2 : [算法笔记（高精度）](https://zhuanlan.zhihu.com/p/679063770)
  - 算法笔记No.3 : [算法笔记（前缀和和差分）](https://zhuanlan.zhihu.com/p/679260528)
