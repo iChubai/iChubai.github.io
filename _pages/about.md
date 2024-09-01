@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # 关于我
-这里是侯嘉栋的个人主页。我是一个南开大学信息科学与技术的本科生，目前正在大一，喜欢数学和算法内容，多多指教~
+这里是侯嘉栋的个人主页。我是南开大学计算机科学与技术专业的大二本科生，目前感兴趣的方向是计算机视觉（CV）和自然语言处理（NLP）。多多指教~
 # 联系我
 下面是我的联系方式：
  - 📫南开大学邮箱(Email) ： `2311671@mail.nankai.edu.cn`
@@ -15,6 +15,7 @@ redirect_from:
  - 知乎个人主页 : [Chubai's zhihu](https://www.zhihu.com/people/chu-bai-13-4)
 
 # 学习内容和笔记
+笔记内容暂时停止更新（主要是没空QAQ
  - 品分析部分题解（手写字丑过几天可能下架、大一刚学的时候写的慎入.提取码：56j1）[品分析](https://pan.baidu.com/s/1MZtp4td2M8rcQz--tpMfSA)
  - 菜栋的胡乱笔记（持续更新完善中。。。.提取码:i91L）[菜栋笔记](https://pan.baidu.com/s/1oeRO-jaDlpD3PeObZV3xvw )
  - 算法笔记No.1 : [算法笔记（排序篇）](https://zhuanlan.zhihu.com/p/671231191)
