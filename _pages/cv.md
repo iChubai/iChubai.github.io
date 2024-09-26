@@ -40,10 +40,10 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
 
 Honor
 ======
+* 2024年南开大学公能奖学金&校"三好学生"
 * 2024年天津市大学生数学竞赛理工类一等奖(41名)
 * 2022年全国中学生数学奥林匹克竞赛（预赛） 省一等奖（第31名）
 * 2022年9月中学生标准学术能力测试（TDA）全省第一名
