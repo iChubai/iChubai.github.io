@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Tianjin, Nankai University, 2023
-* Currently interning at the Media Computing Lab of Nankai University
+* Currently interning at the HVision of Nankai University
 
 Work experience
 ======
